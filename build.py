@@ -138,7 +138,7 @@ def home(b):
 <h2 class="title">Group project: an applied data course</h2>
 <p>In this undergraduate nursing statistics course, students gather real-world data and run the analysis as a group, and the report is built milestone by milestone in one shared Google Doc. Groups add two things the history can show: who participated, and who wrote what.</p>
 {video(b, 'make-your-students-show-their-work.mp4', 'poster-show.jpg', 'Video: a group project set up with SHOW', '59 seconds', SHOW_CAPTIONS)}
-<p class="note">After the standard was set at the first milestone, very few students pasted on the next assignment, and group participation improved. When a paste did show up, it started a conversation, not an accusation.</p>
+<p class="note">After pastes were flagged on the first assignment, only 2 of 62 students pasted on the second, and group participation improved. When a paste did show up, it started a conversation, not an accusation.</p>
 </div></section>
 
 <section class="sec" id="compare"><div class="in">
