@@ -149,7 +149,13 @@ def step4(b):
 <details class="col"><summary>Sample assignment language you can paste in</summary>
 <ol class="copy"><li><b>Add me as an editor when you create this Google Doc.</b> I use the revision history to verify participation and authorship and ensure fairness. Students who do not show active involvement in the Google Doc will not receive credit.</li>
 <li><b>Do all writing directly in the Google Doc.</b> The revision history is how I see your writing process, and the process is part of what this assignment asks for. Content that is written elsewhere and pasted, imported, or uploaded into the document cannot be verified, so it will receive a zero.</li></ol>
-<p><b>To submit:</b> Turn on link sharing (“Anyone with the link can view”) and submit the Google Doc’s shareable link. Do not upload a Word or PDF copy.</p>
+<p><b>How to submit (follow these steps in order):</b></p>
+<ol class="copy"><li><b>Create a new Google Doc.</b> Title it LastName_FirstName_AssignmentName.</li>
+<li><b>Share it with your faculty as Editor.</b> Click the blue Share button, enter your faculty’s email, change the role from Viewer to Editor, and click Send. Viewer or Commenter access will prevent grading and will be treated as a missed submission.</li>
+<li><b>Submit the URL in Canvas.</b> Paste the link into the text-entry box. Confirm it works by opening it in a private browser window.</li>
+<li><b>Write directly in the Google Doc.</b> Do all drafting, revising, and analysis in this document from start to finish.</li></ol>
+<p><b>Important:</b> Do not upload a Word or PDF copy; only the shared Google Doc link is accepted. Your instructor grades in the Google Doc and reviews the revision history to confirm authorship. Large copied, pasted, or imported content, including text from another document, a website, or an AI tool, will receive a grade of 0. Do not change sharing permissions after the deadline.</p>
+<p class="small">Submission steps adapted from Sharon Titus’s teaching statement assignment.</p>
 <button class="copybtn" type="button">Copy this language</button></details></div></section>
 <section class="sec"><div class="in"><h2 class="h2">Know the limits</h2>
 <ul><li><b>Pasting from elsewhere.</b> Students can draft in another file and paste it in, so some authorship can’t be verified. Treat a paste as a reason to ask, and set the expectation at the first milestone.</li>
