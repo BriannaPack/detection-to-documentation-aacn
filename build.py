@@ -119,7 +119,7 @@ def home(b):
 <section class="sec" id="writing"><div class="in narrow">
 <p class="eyebrow">Example 1 · One student, one Doc</p>
 <h2 class="title">Writing course: a teaching statement</h2>
-<p>Most of the work of SHOW happens in the assignment instructions. Here are Sharon Titus’s submission instructions for an individual teaching statement in her nursing course. They set up S and H before a single word is written.</p>
+<p>Most of the work of SHOW happens in the assignment instructions. Here are the submission instructions for an individual teaching statement in a nursing course. They set up S and H before a single word is written.</p>
 <div class="instr"><p class="ihead">How to submit (follow these steps in order)</p>
 <ol><li><b>Create a new Google Doc.</b> Title it LastName_FirstName_Teaching Statement.</li>
 <li><b>Share it with your faculty as Editor.</b> Click the blue Share button, enter your faculty’s email, change the role from Viewer to Editor, and click Send. Viewer or Commenter access will prevent grading and will be treated as a missed submission.</li>
@@ -136,7 +136,7 @@ def home(b):
 <section class="band" id="group"><div class="in narrow">
 <p class="eyebrow">Example 2 · A group, one shared Doc</p>
 <h2 class="title">Group project: an applied data course</h2>
-<p>Brianna Pack teaches statistics in the undergraduate nursing program. Students gather real-world data and run the analysis as a group, and the report is built milestone by milestone in one shared Google Doc. Groups add two things the history can show: who participated, and who wrote what.</p>
+<p>In this undergraduate nursing statistics course, students gather real-world data and run the analysis as a group, and the report is built milestone by milestone in one shared Google Doc. Groups add two things the history can show: who participated, and who wrote what.</p>
 {video(b, 'make-your-students-show-their-work.mp4', 'poster-show.jpg', 'Video: a group project set up with SHOW', '59 seconds', SHOW_CAPTIONS)}
 <p class="note">After the standard was set at the first milestone, very few students pasted on the next assignment, and group participation improved. When a paste did show up, it started a conversation, not an accusation.</p>
 </div></section>
@@ -240,7 +240,7 @@ def page(key, path, name, body):
 <header class="hero"><div class="in">
 <div class="toprow"><img class="apu" src="{b}assets/img/apu-white.png" alt="Azusa Pacific University" width="179" height="40"></div>
 <h1><a href="{b}">{TITLE}</a></h1><p class="sub">{SUBTITLE}</p>
-<p class="meta">{EVENT}<br>Sharon K. Titus, PhD, MSN, RN, and Brianna M. Pack, MPH, MBA, College of Nursing &amp; Health Sciences</p></div></header>
+<p class="meta">{EVENT}<br>Sharon K. Titus, PhD, MSN, RN, CNE, and Brianna M. Pack, MPH, MBA, College of Nursing &amp; Health Sciences</p></div></header>
 {homenav}
 <main id="main">{body(b)}
 <section class="take"><div class="in narrow">
@@ -254,7 +254,7 @@ def page(key, path, name, body):
 <li>Schmitz, A., &amp; Laird, E. (2025, December). AI-powered pedagogy: A guide to evidence-based teaching tools. <i>EDUCAUSE Review</i>.</li>
 <li>Revision History. (n.d.). <i>Writing process visibility for Google Docs &amp; Slides</i>. https://revisionhistory.com</li></ul></details>
 </div></section></main>
-<footer class="foot"><p class="names">Sharon K. Titus, PhD, MSN, RN (<a href="mailto:stitus@apu.edu">stitus@apu.edu</a>) · Brianna M. Pack, MPH, MBA (<a href="mailto:bpack@apu.edu">bpack@apu.edu</a>) · Azusa Pacific University</p>
+<footer class="foot"><p class="names">Sharon K. Titus, PhD, MSN, RN, CNE (<a href="mailto:stitus@apu.edu">stitus@apu.edu</a>) · Brianna M. Pack, MPH, MBA (<a href="mailto:bpack@apu.edu">bpack@apu.edu</a>) · Azusa Pacific University</p>
 <p>Educational session at AACN Transform 2026. ‘Revision History’ is a third-party tool shown for teaching; its mention here isn’t an endorsement, and the presenters have no affiliation with it.</p>
 <p>AI use: Claude (Anthropic) helped draft and edit this site, the slides and the videos. The presenters reviewed all content.</p></footer>
 <script src="{b}assets/site.js" defer></script>
