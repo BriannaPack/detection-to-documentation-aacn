@@ -238,7 +238,7 @@ def page(key, path, name, body):
 <link rel="stylesheet" href="{b}assets/site.css"></head>
 <body><a class="skip" href="#main">Skip to content</a>
 <header class="hero"><div class="in">
-<div class="toprow"><img class="apu" src="{b}assets/img/apu-white.png" alt="Azusa Pacific University" width="179" height="40"><span class="tag">Nursing education · any modality</span></div>
+<div class="toprow"><img class="apu" src="{b}assets/img/apu-white.png" alt="Azusa Pacific University" width="179" height="40"></div>
 <h1><a href="{b}">{TITLE}</a></h1><p class="sub">{SUBTITLE}</p>
 <p class="meta">{EVENT}<br>Sharon K. Titus, PhD, MSN, RN, and Brianna M. Pack, MPH, MBA, College of Nursing &amp; Health Sciences</p></div></header>
 {homenav}
@@ -247,6 +247,7 @@ def page(key, path, name, body):
 <div class="takegrid"><div><h2 class="h3">Take it with you</h2><p><a href="{b}downloads/Detection-to-Documentation-Slides.pdf" target="_blank" rel="noopener">View the slides (PDF)</a></p></div>
 <div><h2 class="h3">Also presented at OLC Accelerate 2026</h2><p>The <a href="{OLC_URL}">OLC version</a> applies the same approach to online teaching across disciplines, with a hands-on walkthrough.</p></div></div>
 <details class="col refs"><summary>References</summary><ul>
+<li>American Association of Colleges of Nursing. (2021). <i>The Essentials: Core competencies for professional nursing education</i>. https://www.aacnnursing.org/essentials</li>
 <li>Eaton, S. E. (2025). Neurodiversity and academic integrity: Toward epistemic plurality in a postplagiarism era. <i>Teaching in Higher Education</i>. https://doi.org/10.1080/13562517.2025.2583456</li>
 <li>Gay, K., &amp; Muscanell, N. (2026, March 23). <i>2026 EDUCAUSE students and technology report: Steady through change</i>. EDUCAUSE.</li>
 <li>Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., &amp; Zou, J. (2023). GPT detectors are biased against non-native English writers. <i>Patterns, 4</i>(7), Article 100779. https://doi.org/10.1016/j.patter.2023.100779</li>
