@@ -1,4 +1,4 @@
-:root{--deep:#7A2026;--red:#A8353A;--blush:#F2C9CB;--wash:#F6F1EE;--wash2:#EFE6E2;--ink:#2B2B2B;--muted:#5A5555;--line:#E2D8D3}
+:root{--deep:#1E1E1E;--red:#A8353A;--blush:#F2C9CB;--wash:#F3F1EF;--wash2:#F8EAEB;--ink:#1E1E1E;--muted:#555;--line:#E3DEDA}
 *{box-sizing:border-box}
 html{font-size:112.5%;-webkit-text-size-adjust:100%;scroll-behavior:smooth}
 body{margin:0;background:#fff;color:var(--ink);font-family:"Source Sans 3",Arial,sans-serif;line-height:1.6}
@@ -16,16 +16,16 @@ section[id]{scroll-margin-top:64px}
 /* header: left-aligned, deep red with a diagonal stripe field on the right */
 .hero{position:relative;overflow:hidden;color:#fff;padding:34px 0 40px;
   background:
-    repeating-linear-gradient(135deg,rgba(255,255,255,.07) 0 14px,transparent 14px 34px) right/46% 100% no-repeat,
-    linear-gradient(110deg,var(--deep) 0%,var(--deep) 55%,var(--red) 100%)}
-.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;background:var(--blush)}
+    repeating-linear-gradient(135deg,rgba(168,53,58,.55) 0 14px,transparent 14px 34px) right/42% 100% no-repeat,
+    var(--deep)}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;background:var(--red)}
 .hero .toprow{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:26px}
 .hero .apu{height:40px;width:auto;display:block}
 .hero .tag{font-weight:700;font-size:.8rem;letter-spacing:.06em;padding:4px 12px;border:1.5px solid rgba(255,255,255,.7);border-radius:999px}
 .hero h1{margin:0 0 6px;font-size:3rem;font-weight:900;line-height:1.08;max-width:760px}
 .hero h1 a{color:#fff;text-decoration:none}
 .hero .sub{margin:0 0 16px;color:var(--blush);font-weight:700;font-size:1.3rem;max-width:760px;line-height:1.35}
-.hero .meta{margin:0;font-size:.85rem;color:#f6e9ea;max-width:760px}
+.hero .meta{margin:0;font-size:.85rem;color:#e9e6e4;max-width:760px}
 
 /* section nav on the overview */
 .secnav{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line)}
@@ -106,7 +106,7 @@ a:focus-visible,summary:focus-visible,button:focus-visible{outline:3px solid var
 @media (max-width:760px){
   .in{padding:0 16px}
   .sec,.band{padding:38px 0}
-  .hero{background:linear-gradient(110deg,var(--deep) 0%,var(--red) 100%)}
+  .hero{background:var(--deep)}
   .hero h1{font-size:2.1rem}.hero .sub{font-size:1.1rem}
   .title{font-size:1.65rem}
   .srow{grid-template-columns:44px 1fr;gap:14px;padding:12px 14px}.srow .badge{width:44px;height:44px}
