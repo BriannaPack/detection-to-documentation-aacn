@@ -100,6 +100,9 @@ details.col summary{cursor:pointer;font-weight:700;color:var(--red)}
 
 .foot{text-align:center;padding:24px 32px 30px;font-size:.85rem;color:var(--muted)}
 .foot p{margin:6px 0}.foot .names{color:var(--deep)}
+.foot .connect{margin:14px 0 16px}
+.cbtn{display:inline-block;padding:9px 20px;border:2px solid var(--deep);border-radius:8px;color:var(--deep);font-weight:700;font-size:1rem;text-decoration:none;background:#fff}
+.cbtn:hover{border-color:var(--red);color:var(--red);background:var(--wash2)}
 
 a:focus-visible,summary:focus-visible,button:focus-visible{outline:3px solid var(--red);outline-offset:2px}
 
