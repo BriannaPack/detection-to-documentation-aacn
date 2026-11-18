@@ -100,13 +100,20 @@ details.col summary{cursor:pointer;font-weight:700;color:var(--red)}
 
 .foot{text-align:center;padding:24px 32px 30px;font-size:.85rem;color:var(--muted)}
 .foot p{margin:6px 0}.foot .names{color:var(--deep)}
-.foot .connect{margin:14px 0 16px}
+.presenters{padding:44px 0 36px;text-align:center}
+.presenters .h3{margin:0 0 4px;font-size:1.6rem}
+.psub{margin:0 0 22px;color:var(--muted)}
+.pgrid{display:grid;grid-template-columns:1fr 1fr;gap:24px;max-width:720px;margin:0 auto}
+.pcard{border:1px solid var(--line);border-top:5px solid var(--red);border-radius:10px;padding:22px 20px 24px;background:#fff}
+.pcard h3{margin:0;font-size:1.3rem;color:var(--deep)}
+.pcard .cred{margin:2px 0 16px;color:var(--muted)}
 .cbtn{display:inline-block;padding:9px 20px;border:2px solid var(--deep);border-radius:8px;color:var(--deep);font-weight:700;font-size:1rem;text-decoration:none;background:#fff}
 .cbtn:hover{border-color:var(--red);color:var(--red);background:var(--wash2)}
 
 a:focus-visible,summary:focus-visible,button:focus-visible{outline:3px solid var(--red);outline-offset:2px}
 
 @media (max-width:760px){
+  .pgrid{grid-template-columns:1fr}
   .in{padding:0 16px}
   .sec,.band{padding:38px 0}
   .hero{background:var(--deep)}
