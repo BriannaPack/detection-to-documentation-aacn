@@ -255,6 +255,7 @@ def page(key, path, name, body):
 <li>Revision History. (n.d.). <i>Writing process visibility for Google Docs &amp; Slides</i>. https://revisionhistory.com</li></ul></details>
 </div></section></main>
 <footer class="foot"><p class="names">Sharon K. Titus, PhD, MSN, RN, CNE (<a href="mailto:stitus@apu.edu">stitus@apu.edu</a>) · Brianna M. Pack, MPH, MBA (<a href="mailto:bpack@apu.edu">bpack@apu.edu</a>) · Azusa Pacific University</p>
+<p class="names">Connect with Brianna: <a href="https://briannapack.github.io/">briannapack.github.io</a></p>
 <p>Educational session at AACN Transform 2026. ‘Revision History’ is a third-party tool shown for teaching; its mention here isn’t an endorsement, and the presenters have no affiliation with it.</p>
 <p>AI use: Claude (Anthropic) helped draft and edit this site, the slides and the videos. The presenters reviewed all content.</p></footer>
 <script src="{b}assets/site.js" defer></script>
